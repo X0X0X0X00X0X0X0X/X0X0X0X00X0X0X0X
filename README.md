@@ -13,8 +13,7 @@ I'm Zaman
 📝 I have a strong interest in Cyber Security and Penetration Testing
 🔭 Working on Server Maintanace 
 🌱 Learning about Computer Vision and Security Operations stuff
-🌟 Main languages: Python only
-🚩 Interested in Red Team 
+🌟 Main languages: Python and Bash only
 ```
 
 <img align="right" src="Gohan_Blanco_Beast_Gohan_Twixtor.gif" width="500px">
