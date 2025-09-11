@@ -9,11 +9,11 @@
 ```
 I'm Zaman
 -------------------------
-📝 I am a self taught Independent Security Reasercher and a Network Engineer
-📝 I have a strong interest in Cyber Security and Penetration Testing
-🔭 Working on Server Maintanace 
-🌱 Learning about Computer Vision and Security Operations stuff
-🌟 Main languages: Python and Bash only
+- I am a self taught Independent Security Reasercher and a Network Engineer
+- I have a strong interest in Cyber Security and Penetration Testing
+- Working on Server Support Maintanace 
+- Learning about Computer Vision and Security Operations stuff
+- Main languages: Python and Bash only
 ```
 
 <img align="right" src="Gohan .gif" width="500px">
