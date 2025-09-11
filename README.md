@@ -16,7 +16,7 @@ I'm Zaman
 🌟 Main languages: Python and Bash only
 ```
 
-<img align="right" src="Gohan_Blanco_Beast_Gohan_Twixtor.gif" width="500px">
+<img align="right" src="Gohan .gif" width="500px">
 
 
 
